@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/wedding-present/20221227_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/wedding-present/20221227_007.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -74,9 +74,11 @@ body::before {
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
-<p>結婚プレゼントは、ヨドバシカメラで購入した炊飯器</p>
+<p>結婚プレゼントは、ヨドバシカメラで購入</p>
 <a href="20221227_001.JPG" data-lightbox="abc"><img src="20221227_001.JPG" alt="サンプル画像" width="900" /></a>
+<p>プレゼントの炊飯器は、かなりの逸品！</p>
 <a href="20221227_002.JPG" data-lightbox="abc"><img src="20221227_002.JPG" alt="サンプル画像" width="900" /></a>
+<p>帰り道の「黒潮すし」で晩御飯</p>
 <a href="20221227_003.JPG" data-lightbox="abc"><img src="20221227_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221227_004.JPG" data-lightbox="abc"><img src="20221227_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221227_005.JPG" data-lightbox="abc"><img src="20221227_005.JPG" alt="サンプル画像" width="900" /></a>
