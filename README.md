@@ -68,7 +68,7 @@ body::before {
 
 <p><a href="https://torokoid.github.io/takuma-s_mama">takuma-s_mama</a>>wedding-present</p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月27日(火)結婚プレゼントにヨドバシカメラで炊飯器!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2022年12月27日(火)結婚プレゼントにヨドバシカメラで炊飯器購入!!!</marquee></span></h1>
 
 
 
@@ -76,9 +76,9 @@ body::before {
 	
 <p>結婚プレゼントは、JR宇都宮駅前のヨドバシカメラで購入</p>
 <a href="20221227_001.JPG" data-lightbox="abc"><img src="20221227_001.JPG" alt="サンプル画像" width="900" /></a>
-<p>プレゼントの炊飯器は、かなりの高機能な逸品！</p>
+<p>プレゼントの炊飯器は、かなり高機能な逸品！</p>
 <a href="20221227_002.JPG" data-lightbox="abc"><img src="20221227_002.JPG" alt="サンプル画像" width="900" /></a>
-<p>帰り道「黒潮すし」で晩御飯</p>
+<p>帰り道みんなで「黒潮すし」の晩御飯</p>
 <a href="20221227_003.JPG" data-lightbox="abc"><img src="20221227_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221227_004.JPG" data-lightbox="abc"><img src="20221227_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221227_005.JPG" data-lightbox="abc"><img src="20221227_005.JPG" alt="サンプル画像" width="900" /></a>
