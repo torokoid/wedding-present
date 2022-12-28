@@ -66,7 +66,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">wedding-present</a></p>
+<p><a href="https://torokoid.github.io/takuma-s_mama">takuma-s_mama</a>>wedding-present</p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月27日(火)結婚のプレゼントに炊飯器!!!</marquee></span></h1>
 
