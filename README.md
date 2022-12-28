@@ -68,7 +68,7 @@ body::before {
 <!--
 <p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>>リアル同窓会_2</p>
 -->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月6日(火)拓馬くんお母さん、来訪!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月27日(火)結婚のプレゼントに炊飯器!!!</marquee></span></h1>
 
 
 
