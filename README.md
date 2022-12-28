@@ -65,9 +65,9 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
 </p>
-<!--
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>>リアル同窓会_2</p>
--->
+
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">wedding-present</a></p>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022年12月27日(火)結婚のプレゼントに炊飯器!!!</marquee></span></h1>
 
 
